@@ -360,7 +360,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>Feltzer3</audioNameHash>    <!-- ecoboostv6 -->
+      <audioNameHash>ecoboostv6</audioNameHash>    <!-- ecoboostv6 -->
       <layout>LAYOUT_EXPLORER</layout>
       <coverBoundOffsets>REBLA_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
