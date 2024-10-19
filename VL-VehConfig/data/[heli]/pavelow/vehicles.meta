@@ -74,7 +74,7 @@
       <minSeatHeight value="1.728" />
       <identicalModelSpawnDistance value="20" />
       <maxNumOfSameColor value="10" />
-      <defaultBodyHealth value="1000.000000" />
+      <defaultBodyHealth value="1000000.0000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
@@ -82,7 +82,7 @@
       <frequency value="100" />
       <swankness>SWANKNESS_4</swankness>
       <maxNum value="999" />
-      <flags>FLAG_NO_BOOT FLAG_PEDS_CAN_STAND_ON_TOP FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_HELICOPTER_WITH_LANDING_GEAR FLAG_HEADLIGHTS_ON_LANDINGGEAR FLAG_HAS_INTERIOR_EXTRAS FLAG_DRIVER_NO_DRIVE_BY FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_DONT_SPAWN_AS_AMBIENT FLAG_DONT_TIMESLICE_WHEELS</flags>
+      <flags>FLAG_NO_BOOT FLAG_PEDS_CAN_STAND_ON_TOP FLAG_HAS_CPPED_EXPLOSION_DAMAGE FLAG_HELICOPTER_WITH_LANDING_GEAR FLAG_HEADLIGHTS_ON_LANDINGGEAR FLAG_HAS_INTERIOR_EXTRAS FLAG_DRIVER_NO_DRIVE_BY FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_DONT_SPAWN_AS_AMBIENT FLAG_DONT_TIMESLICE_WHEELS</flags>
       <type>VEHICLE_TYPE_HELI</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_LAZER</dashboardType>
@@ -189,7 +189,7 @@
       <minSeatHeight value="1.728" />
       <identicalModelSpawnDistance value="20" />
       <maxNumOfSameColor value="10" />
-      <defaultBodyHealth value="1000.000000" />
+      <defaultBodyHealth value="1000000.0000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
@@ -304,7 +304,7 @@
       <minSeatHeight value="1.728" />
       <identicalModelSpawnDistance value="20" />
       <maxNumOfSameColor value="10" />
-      <defaultBodyHealth value="1000.000000" />
+      <defaultBodyHealth value="1000000.0000" />
       <pretendOccupantsScale value="1.000000" />
       <visibleSpawnDistScale value="1.000000" />
       <trackerPathWidth value="2.000000" />
