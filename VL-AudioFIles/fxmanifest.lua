@@ -15,6 +15,10 @@ files {
   
 }
 
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg59hurv10_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg59hurv10_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg59hurv10_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg59hurv10"
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/urusv8_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/urusv8_sounds.dat'
