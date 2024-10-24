@@ -2899,7 +2899,7 @@
       <type>VEHICLE_TYPE_HELI</type>
       <plateType>VPT_NONE</plateType>
       <dashboardType>VDT_MAVERICK</dashboardType>
-      <vehicleClass>VC_HELICOPTER</vehicleClass>
+      <vehicleClass>VC_EMERGENCY</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
